@@ -1,5 +1,8 @@
 git cheatsheet steps:
 
+all go through these commands while working
+
+
 a-> for new repo
 
 1. create repositry(by clicking +sign in the github)  
