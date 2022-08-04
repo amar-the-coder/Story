@@ -1,0 +1,11 @@
+git cheatsheet steps:
+
+1. create repositry(by clicking +sign in the github)  
+2. copy the https ink:
+3. git init
+4. git add .
+5. git status
+6. git commit -m "changes"
+7. git log
+8. git add remote origin
+9. git push -u origin master
