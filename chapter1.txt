@@ -1,5 +1,7 @@
 git cheatsheet steps:
 
+a-> for new repo
+
 1. create repositry(by clicking +sign in the github)  
 2. copy the https ink:
 3. git init
@@ -9,3 +11,15 @@ git cheatsheet steps:
 7. git log
 8. git add remote origin
 9. git push -u origin master
+
+
+b-> for existing repo
+
+1. git add a .
+2. git status
+3. for checking differnces - (git diff filename)
+4. git commit -m "changes"
+5. git log
+6. git push origin master
+
+
