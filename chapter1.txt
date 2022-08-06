@@ -1,6 +1,6 @@
 git cheatsheet steps:
 
-all go through these commands while working
+always go through these commands in free time
 
 
 a-> for new repo
@@ -12,7 +12,7 @@ a-> for new repo
 5. git status
 6. git commit -m "changes"
 7. git log
-8. git add remote origin
+8. git add remote origin (your link)
 9. git push -u origin master
 
 
@@ -24,5 +24,23 @@ b-> for existing repo
 4. git commit -m "changes"
 5. git log
 6. git push origin master
+
+
+steps for the deploy your software in heroku
+
+1.heroku login 
+2. checking versions
+3. git init 
+4. git add. 
+
+if endless loop then 
+a. for deleting the file : rm -f .git/index.lock
+b. for resolving the issue:  git config --global core.autocrlf false
+
+5. git commit -m "initial commit"
+6. git status 
+
+7. heroku create
+8. git push heroku master
 
 
